@@ -1,4 +1,4 @@
-@import "/https://fonts.googleapis.com/css?family=Russo+One";
+@import "https://fonts.googleapis.com/css?family=Russo+One";
 .nav.navbar-nav {
     text-align: center;
 }
@@ -34,7 +34,7 @@
 /*CAROUSEL*/
 
 .container-7 {
-    background-image: url(/img/fon2.jpg);
+    background: url(../img/fon2.jpg);
     min-height: 600px;
     background-size: cover;
     background-position: center;
@@ -214,7 +214,7 @@ body {
     min-height: 700px;
 }
 .background-container-10{
-    background: url(/img/fon3.jpg);
+    background: url(../img/fon3.jpg);
     background-size: cover;
     background-position: center;
     min-height: 700px;
